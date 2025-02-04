@@ -111,3 +111,30 @@
 2025-01-26 16:53:15.174 | INFO     | __main__:main:62 - Standard Deviation: 0.60
 2025-01-26 16:53:15.174 | INFO     | __main__:main:64 - Exiting MAIN function.
 2025-01-26 16:53:15.174 | INFO     | __main__:<module>:80 - STATS - Execution complete.
+2025-02-03 20:41:28.685 | INFO     | utils_logger:<module>:39 - Logging to file: logs\project_log.log
+2025-02-03 20:41:28.685 | INFO     | __main__:<module>:72 - STATS - Ready for work.
+2025-02-03 20:41:28.685 | INFO     | __main__:main:55 - Starting MAIN function.
+2025-02-03 20:41:28.685 | INFO     | __main__:main:58 - Scores: [3.5, 4.0, 4.8, 2.9, 3.7, 4.3, 3.8]
+2025-02-03 20:41:28.686 | INFO     | __main__:main:59 - Minimum: 2.90
+2025-02-03 20:41:28.686 | INFO     | __main__:main:60 - Maximum: 4.80
+2025-02-03 20:41:28.686 | INFO     | __main__:main:61 - Mean: 3.86
+2025-02-03 20:41:28.686 | INFO     | __main__:main:62 - Standard Deviation: 0.60
+2025-02-03 20:41:28.686 | INFO     | __main__:main:64 - Exiting MAIN function.
+2025-02-03 20:41:28.687 | INFO     | __main__:<module>:80 - STATS - Execution complete.
+2025-02-03 20:41:45.408 | INFO     | utils_logger:<module>:39 - Logging to file: logs\project_log.log
+2025-02-03 20:41:45.409 | INFO     | __main__:<module>:52 - CHARTS - Ready for work.
+2025-02-03 20:41:45.409 | INFO     | __main__:main:26 - Starting main function.
+2025-02-03 20:41:45.963 | INFO     | __main__:main:31 - Loaded penguins dataset successfully.
+2025-02-03 20:41:49.468 | INFO     | __main__:main:39 - NOTE: Close the chart window to continue and exit the script.
+2025-02-03 20:41:57.319 | INFO     | __main__:main:41 - Exiting main function.
+2025-02-03 20:41:57.319 | INFO     | __main__:<module>:54 - CHARTS - Execution complete.
+2025-02-03 20:42:00.112 | INFO     | utils_logger:<module>:39 - Logging to file: logs\project_log.log
+2025-02-03 20:42:00.112 | INFO     | __main__:<module>:79 - HELLO - Ready for work.
+2025-02-03 20:42:00.113 | INFO     | __main__:main:44 - Starting main function.
+2025-02-03 20:42:16.472 | INFO     | __main__:<module>:39 - Logging to file: logs\project_log.log
+2025-02-03 20:42:16.473 | INFO     | __main__:main:61 - STARTING utils_logger.py
+2025-02-03 20:42:16.473 | INFO     | __main__:log_example:52 - This is an example info message.
+2025-02-03 20:42:16.473 | WARNING  | __main__:log_example:53 - This is an example warning message.
+2025-02-03 20:42:16.473 | ERROR    | __main__:log_example:54 - This is an example error message.
+2025-02-03 20:42:16.473 | INFO     | __main__:main:66 - View the log output at logs\project_log.log
+2025-02-03 20:42:16.474 | INFO     | __main__:main:67 - EXITING utils_logger.py.
